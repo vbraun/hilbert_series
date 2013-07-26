@@ -1,4 +1,7 @@
-hilbert_series
+Hilbert Series
 ==============
 
-Hilbert series for quantum field theory
+Computes refined Hilbert series. Also, convert refined Hilbert series
+into Young tableaux.
+
+
